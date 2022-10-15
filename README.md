@@ -9,8 +9,8 @@ Disabled "Block Public Access settings for this bucket" and acked warning. This 
 Tags
 Project : simple static website
 Default settings were used for the following :
-- aws region
-- object ownership
+- AWS region
+- Object ownership
 - Bucket versioning
 - Encryption
 - Advanced settings
@@ -52,6 +52,6 @@ http://simplestaticwebsite1882.s3-website-us-east-1.amazonaws.com
 now upload the index.html and error.html files
 
 
-and that's it
+And that's it.  
 You can now open the simple webpage by going to the bucket website endpoint.
 
